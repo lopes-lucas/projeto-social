@@ -44,7 +44,7 @@ section#redes-sociais img {
         box-sizing: border-box;
 }
 section#redes-sociais {
-    text-align: right;
+    text-align: left;
 }
 section#redes-sociais img:hover{
     border: 2px solid rgba(255, 255, 255, 0.484);
